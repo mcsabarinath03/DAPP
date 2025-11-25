@@ -24,7 +24,7 @@ How to Deploy the Smart Contract:
 
 Connecting the Front-End:
 
-1. Open your project folder containing:
+1. Open the project folder containing:
    index.html
    script.js (if used)
    README.md
@@ -42,15 +42,10 @@ How to Test the DApp:
 6. Enter a number and click Set Value.
 7. Click Get Value to verify blockchain data retrieval.
 
-How to Upload to GitHub:
+Contract address used: "0xC7620cE4eeB20e0a9150D0b30f16bd332072741b" 
 
-1. Open GitHub and create a new repository.
-2. On your computer, place all project files (index.html, script.js, SimpleStorage.sol, README.md) inside one folder.
-3. Upload to GitHub by:
-   - Dragging and dropping files into the repository, OR
-   - Using Git commands (optional).
-4. Add README.md to the root folder of the repository.
-5. Commit changes.
+Test network used: Ethereum Hoodi
 
-License:
-This project is open-source. You may modify and use it freely.
+User interface:
+
+
