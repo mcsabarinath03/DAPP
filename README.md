@@ -46,6 +46,5 @@ Contract address used: "0xC7620cE4eeB20e0a9150D0b30f16bd332072741b"
 
 Test network used: Ethereum Hoodi
 
-User interface:
 
 
